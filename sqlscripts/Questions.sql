@@ -1,0 +1,11 @@
+insert into magnit.Questions (questionId, question) values (1, 'What is your current role in the Organisation ?');
+insert into magnit.Questions (questionId, question) values (2, 'What part of your job are you enjoying the most ?');
+insert into magnit.Questions (questionId, question) values (3, 'What aspect of your job do you enjoy the least ?');
+insert into magnit.Questions (questionId, question) values (4, 'How have you been feeling about work in general ?');
+insert into magnit.Questions (questionId, question) values (5, 'How have you been feeling about being able to balance work and home ?');
+insert into magnit.Questions (questionId, question) values (6, 'Are you satisfied with your current roles and responsibilities ?');
+insert into magnit.Questions (questionId, question) values (7, 'Is your Manager available/interacting with you from time to time satisfactory ?');
+insert into magnit.Questions (questionId, question) values (8, 'Are your queries/issues addressed immediately by manager ?');
+insert into magnit.Questions (questionId, question) values (9, 'How do you overall rate your manager engagement with you ?');
+insert into magnit.Questions (questionId, question) values (10, 'How do you rate your workplace experience ?');
+insert into magnit.Questions (questionId, question) values (11, 'Do you feel like you are learning and growing here ? If not, is there anything that can be done to improve your experience ?');
