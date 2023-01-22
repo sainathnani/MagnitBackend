@@ -13,5 +13,6 @@ Code initially loads the first question and the form can be filled until you see
 The focus was on logic and loading Questions/Options dyncamically with little concentration on CSS.
 
 ## Tools and Platforms Used
-   Tools -  Intellij
-   Java Framework - Spring
+   Tools -  IntelliJ,
+   Java Framework - Spring,
+   Database - MySQL
